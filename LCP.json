@@ -9,7 +9,7 @@
         "crt": "@crt"
       },
       {
-        "customDomains": ["test1.com"]
+        "customDomains": ["bodnariuctest.com"]
       }
     ]
   },
